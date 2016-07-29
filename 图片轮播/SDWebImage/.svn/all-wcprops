@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage
+END
+MKAnnotationView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/MKAnnotationView+WebCache.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDImageCache.h
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImageDecoder.h
+END
+MKAnnotationView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/MKAnnotationView+WebCache.m
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDImageCache.m
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImageDecoder.m
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImageManager.h
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageDownloaderOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImageDownloaderOperation.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImageManager.m
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIImageView+WebCache.h
+END
+UIImage+WebP.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIImage+WebP.h
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIButton+WebCache.m
+END
+SDWebImageDownloaderOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImageDownloaderOperation.m
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIImageView+WebCache.m
+END
+UIImage+WebP.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIImage+WebP.m
+END
+NSData+ImageContentType.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/NSData+ImageContentType.h
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImageDownloader.h
+END
+UIView+WebCacheOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIView+WebCacheOperation.h
+END
+NSData+ImageContentType.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/NSData+ImageContentType.m
+END
+UIView+WebCacheOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIView+WebCacheOperation.m
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImageDownloader.m
+END
+UIImageView+HighlightedWebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIImageView+HighlightedWebCache.h
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImageCompat.h
+END
+UIImageView+HighlightedWebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIImageView+HighlightedWebCache.m
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImagePrefetcher.h
+END
+UIImage+MultiFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIImage+MultiFormat.h
+END
+SDWebImageCompat.m
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImageCompat.m
+END
+UIImage+GIF.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIImage+GIF.h
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImagePrefetcher.m
+END
+UIImage+MultiFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIImage+MultiFormat.m
+END
+UIImage+GIF.m
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/UIImage+GIF.m
+END
+SDWebImageOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/ios/!svn/ver/1275/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%97APP/%E6%99%BA%E5%B0%9A%E9%85%92%E5%BA%972.3/podControl/Utils/PODTools/SDWebImage/SDWebImageOperation.h
+END
